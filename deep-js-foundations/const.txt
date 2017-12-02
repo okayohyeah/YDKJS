@@ -1,0 +1,6 @@
+"const" variable has nothing to do with the value. 
+	It has to do with the assignment. 
+	You cannot re-assign it. 
+				For BLOCK SCOPE: it is used a declarative. 
+						You will never re-assign it within the block scope because you should not (or you will get an error). 
+						Use "const" for a value that is immutable.
